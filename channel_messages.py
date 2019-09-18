@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 from slack import WebClient
 
-slack_token = "xoxp-754552798980-755017691632-757262358374-c0070416328b44d0269c7ab089ac007a"
+slack_token = _ENTER_TOKEN_HERE_
 channel_name = 'general'
 date_from = "2019-09-05"
 date_to = "2019-09-16"
@@ -32,7 +32,4 @@ posts_by_user = {}
 
 #print(history)
 for message in history['messages']:
-		print(message['text'])
-
-for user, count in posts_by_user.items():
-    print(user, 'posted', count, 'messages')
+	print(message['text'])
