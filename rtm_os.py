@@ -31,6 +31,6 @@ def say_hello(**payload):
 			thread_ts=thread_ts
 		
 		)
-slack_token = _ENTER_TOKEN_HERE
+slack_token = _ENTER_TOKEN_HERE_
 rtm_client = slack.RTMClient(token=slack_token)
 rtm_client.start()
