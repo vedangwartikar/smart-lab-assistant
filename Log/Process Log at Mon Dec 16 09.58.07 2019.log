@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------
+Process Log at Mon Dec 16 09:58:07 2019
+--------------------------------------------------------------------------------
+{'pid': 0, 'name': 'System Idle Process', 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.05859375}
+{'pid': 4, 'name': 'System', 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.1953125}
+{'pid': 100, 'name': 'fontdrvhost.exe', 'username': None, 'vms': 1.6015625}
+{'pid': 120, 'name': 'Registry', 'username': None, 'vms': 13.359375}
+{'pid': 460, 'name': 'smss.exe', 'username': None, 'vms': 1.19140625}
+{'pid': 652, 'name': 'winlogon.exe', 'username': None, 'vms': 2.72265625}
+{'pid': 668, 'name': 'csrss.exe', 'username': None, 'vms': 2.203125}
+{'pid': 772, 'name': 'wininit.exe', 'username': None, 'vms': 1.67578125}
+{'pid': 780, 'name': 'csrss.exe', 'username': None, 'vms': 2.48046875}
+{'pid': 840, 'name': 'fontdrvhost.exe', 'username': None, 'vms': 3.31640625}
+{'pid': 844, 'name': 'services.exe', 'username': None, 'vms': 5.61328125}
+{'pid': 864, 'name': 'lsass.exe', 'username': None, 'vms': 8.1953125}
+{'pid': 980, 'name': 'svchost.exe', 'username': None, 'vms': 0.953125}
+{'pid': 1004, 'name': 'svchost.exe', 'username': None, 'vms': 12.87890625}
+{'pid': 1012, 'name': 'jhi_service.exe', 'username': None, 'vms': 1.5625}
+{'pid': 1060, 'name': 'svchost.exe', 'username': None, 'vms': 8.3359375}
+{'pid': 1112, 'name': 'svchost.exe', 'username': None, 'vms': 2.67578125}
+{'pid': 1168, 'name': 'dwm.exe', 'username': None, 'vms': 40.109375}
+{'pid': 1280, 'name': 'svchost.exe', 'username': None, 'vms': 2.02734375}
+{'pid': 1312, 'name': 'svchost.exe', 'username': None, 'vms': 2.8828125}
+{'pid': 1356, 'name': 'svchost.exe', 'username': None, 'vms': 2.87890625}
+{'pid': 1392, 'name': 'svchost.exe', 'username': None, 'vms': 1.5390625}
+{'pid': 1400, 'name': 'svchost.exe', 'username': None, 'vms': 2.21875}
+{'pid': 1412, 'name': 'svchost.exe', 'username': None, 'vms': 6.92578125}
+{'pid': 1432, 'name': 'RuntimeBroker.exe', 'username': 'LAPTOP-RSTFGJU4\\Vedant Wartikar', 'vms': 5.1796875}
+{'pid': 1488, 'name': 'svchost.exe', 'username': None, 'vms': 2.34765625}
+{'pid': 1528, 'name': 'svchost.exe', 'username': None, 'vms': 1.56640625}
+{'pid': 1536, 'name': 'svchost.exe', 'username': None, 'vms': 2.80078125}
+{'pid': 1664, 'name': 'svchost.exe', 'username': None, 'vms': 10.33984375}
+{'pid': 1708, 'name': 'svchost.exe', 'username': None, 'vms': 17.0546875}
+{'pid': 1752, 'name': 'svchost.exe', 'username': None, 'vms': 3.015625}
+{'pid': 1760, 'name': 'DolbyDAX2API.exe', 'username': None, 'vms': 31.03515625}
+{'pid': 1892, 'name': 'svchost.exe', 'username': None, 'vms': 5.5}
+{'pid': 1944, 'name': 'svchost.exe', 'username': None, 'vms': 2.671875}
+{'pid': 2052, 'name': 'NVDisplay.Container.exe', 'username': None, 'vms': 3.16796875}
+{'pid': 2124, 'name': 'svchost.exe', 'username': None, 'vms': 2.625}
+{'pid': 2136, 'name': 'svchost.exe', 'username': None, 'vms': 5.06640625}
+{'pid': 2152, 'name': 'svchost.exe', 'username': None, 'vms': 4.48828125}
+{'pid': 2160, 'name': 'WmiPrvSE.exe', 'username': None, 'vms': 23.25}
+{'pid': 2204, 'name': 'svchost.exe', 'username': None, 'vms': 1.34765625}
+{'pid': 2212, 'name': 'svchost.exe', 'username': None, 'vms': 2.57421875}
+{'pid': 2220, 'name': 'svchost.exe', 'username': None, 'vms': 2.12109375}
+{'pid': 2232, 'name': 'jusched.exe', 'username': 'LAPTOP-RSTFGJU4\\Vedant Wartikar', 'vms': 1.97265625}
+{'pid': 2252, 'name': 'wsc_proxy.exe', 'username': None, 'vms': 2.62890625}
+{'pid': 2284, 'name': 'svchost.exe', 'username': None, 'vms': 1.984375}
+{'pid': 2352, 'name': 'Memory Compression', 'username': None, 'vms': 0.07421875}
+{'pid': 2392, 'name': 'svchost.exe', 'username': None, 'vms': 2.10546875}
+{'pid': 2416, 'name': 'svchost.exe', 'username': None, 'vms': 2.7421875}
+{'pid': 2452, 'name': 'svchost.exe', 'username': None, 'vms': 3.2265625}
+{'pid': 2456, 'name': 'svchost.exe', 'username': None, 'vms': 3.3515625}
+{'pid': 2488, 'name': 'igfxCUIService.exe', 'username': None, 'vms': 1.953125}
+{'pid': 2512, 'name': 'NVDisplay.Container.exe', 'username': None, 'vms': 27.58984375}
+{'pid': 2544, 'name': 'chrome.exe', 'username': 'LAPTOP-RSTFGJU4\\Vedant Wartikar', 'vms': 27.71875}
