@@ -33,7 +33,7 @@ $ cd slack-automation
 
 - Enter the Slack Legacy token in main.py
 
-The code is multi-platform and is tested on both Windows and Linux.
+The code is multi-platform and is tested on both Windows and Unix/Linux machines.
 
 ### How to Run
 
@@ -42,7 +42,7 @@ The code is multi-platform and is tested on both Windows and Linux.
 $ python main.py
 ```
 
-Once the code gets running on the PC, commands can be issued on the Slack channel in natural language. These commands will be interpreted on the server PC which will initiate the respective automation scripts
+Once the code gets running on the PC, commands can be issued on the Slack channel in natural language. These commands will be interpreted on the server PC which will initiate the respective automation scripts.
 
 ## Functionalities
 
