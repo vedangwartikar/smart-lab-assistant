@@ -1,5 +1,3 @@
-# slack-automation
-
 <a href="#">
   <div align="center">
     <img src="images/slack.png" width='154'/>
