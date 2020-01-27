@@ -1,0 +1,15 @@
+---
+- hosts: all
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+  connection: local
+  become: true
+  tasks:
+  - name: copy the script
+    copy:
+     src: main.py
+     dest: /etc/main.py
+     remote_src: true
+  - name: execute the script
+    script: main.py
+
