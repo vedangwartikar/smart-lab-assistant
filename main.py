@@ -36,6 +36,6 @@ def slack_auto(**payload):
 	except:
 		print(sys.exit())
 
-slack_token = 'xoxp-754552798980-756882538807-764678931828-0de6562a1ff19219d49870d892fc1164' #Enter Slack token
+slack_token = '' #Enter Slack token
 rtm_client = slack.RTMClient(token=slack_token)
 rtm_client.start()
