@@ -1,9 +1,8 @@
 import requests
 
 def execute(slack_token, data):
-	words = data['text'].split()
-	filename = words[2]
-	my_file = {'file' : (filename, open("images/"+filename, 'rb'))}
+	filename = "help.txt"
+	my_file = {'file' : (filename, open(filename, 'rb'))}
 	payload={
 	"filename":filename, 
 	"token":slack_token, 
@@ -11,4 +10,4 @@ def execute(slack_token, data):
 	}
 
 	r = requests.post("https://slack.com/api/files.upload", params=payload, files=my_file)
-	print("File succesfully uploaded on Slack channel")
+	print("Help file succesfully uploaded on Slack channel")

@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+Process Log at Mon Mar  9 23:11:33 2020
+--------------------------------------------------------------------------------
+{'pid': 1, 'username': 'root', 'name': 'init', 'vms': 8.68359375}
+{'pid': 5, 'username': 'root', 'name': 'init', 'vms': 8.703125}
+{'pid': 6, 'username': 'vedang', 'name': 'bash', 'vms': 16.5390625}
+{'pid': 36, 'username': 'vedang', 'name': 'python3', 'vms': 191.51171875}
+{'pid': 58, 'username': 'vedang', 'name': 'python3', 'vms': 274.984375}

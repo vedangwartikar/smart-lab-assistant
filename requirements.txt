@@ -1,0 +1,4 @@
+slackclient
+psutil
+subprocess.run
+requests

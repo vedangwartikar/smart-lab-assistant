@@ -6,6 +6,15 @@
 
 <h1 align="center">Automation of Network Systems using NLP and Slack API</h1>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vedangwartikar/slack-automation/issues)
+[![Forks](https://img.shields.io/github/forks/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/members)
+[![Stargazers](https://img.shields.io/github/stars/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/stargazers)
+[![Issues](https://img.shields.io/github/issues/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/issues)
+[![MIT License](https://img.shields.io/github/license/Devang-25/Face-Mask-Detection-Project.svg?style=flat-square)](https://github.com/vedangwartikar/slack-automation/blob/master/LICENSE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/vedang-wartikar-57359915a/)
+
 ## Features
 
 Python automation scripts that can be initiated by providing natural language commands in a Slack channel which will execute on remote PCs:

@@ -1,0 +1,9 @@
+Slack channel commands -> Usage
+------------------------------------------------------
+Shutdown -> Shutdown
+Restart -> Restart
+Install python library -> Install [library]
+Generate a Process log -> Process Log
+Send file onto slack channel -> Send file [file_name]
+Send alert -> Alert
+------------------------------------------------------
