@@ -10,7 +10,6 @@
 [![Forks](https://img.shields.io/github/forks/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/members)
 [![Stargazers](https://img.shields.io/github/stars/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/stargazers)
 [![Issues](https://img.shields.io/github/issues/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/issues)
-[![MIT License](https://img.shields.io/github/license/Devang-25/Face-Mask-Detection-Project.svg?style=flat-square)](https://github.com/vedangwartikar/slack-automation/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/vedang-wartikar-57359915a/)
 
 ## Features
