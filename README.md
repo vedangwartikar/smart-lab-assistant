@@ -3,14 +3,6 @@
 <div align="center">
     <img src="https://github.com/vedangwartikar/slack-automation/blob/master/slack-automation.gif" alt = "this slowpoke moves"/>
 </div>
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vedangwartikar/slack-automation/issues)
-[![Forks](https://img.shields.io/github/forks/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/members)
-[![Stargazers](https://img.shields.io/github/stars/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/stargazers)
-[![Issues](https://img.shields.io/github/issues/Devang-25/Face-Mask-Detection-Project.svg?logo=github)](https://github.com/vedangwartikar/slack-automation/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/vedang-wartikar-57359915a/)
 
 ## Features
 
