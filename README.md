@@ -1,11 +1,9 @@
-<a href="#">
-  <div align="center">
-    <img src="images/slack.png" width='154'/>
-  </div>
-</a>
-
 <h1 align="center">Automation of Network Systems using NLP and Slack API</h1>
 
+<div align="center">
+    <img src="https://github.com/vedangwartikar/slack-automation/blob/master/slack-automation.gif" alt = "this slowpoke moves"/>
+</div>
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vedangwartikar/slack-automation/issues)
