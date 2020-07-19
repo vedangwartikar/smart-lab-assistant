@@ -46,6 +46,7 @@ Once the code gets running on the PC, commands can be issued on the Slack channe
 
 Slack channel commands| Description
 ------------ | ------------------------------------------
+Help | To display commands and their usage
 Shutdown | To shutdown a PC
 Restart | To Restart a PC
 Install python library **XYZ** | Installs any python library using pip command
