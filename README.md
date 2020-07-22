@@ -22,7 +22,7 @@ You will need to:
 
 - Install latest version of [Slack](https://slack.com/intl/en-in/downloads/android) on a smartphone
 - Install [Python 3](https://www.python.org/downloads/)
-- Genereate a [Slack Legacy token](https://api.slack.com/custom-integrations/legacy-tokens)
+- Genereate a [Slack Legacy token](https://api.slack.com/custom-integrations/legacy-tokens) for your Slack channel and username.
 
 ```bash
 $ git clone https://github.com/vedangwartikar/slack-automation.git
