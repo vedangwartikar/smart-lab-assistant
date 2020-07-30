@@ -29,6 +29,13 @@ $ git clone https://github.com/vedangwartikar/slack-automation.git
 $ cd slack-automation
 ```
 
+OR (incase of any dependency issues) you can just pull the docker image without explicitly doing all of the above installation steps
+
+```bash
+docker pull rutuja912/modified_server
+```
+
+Once the installation is complete
 - Enter the Slack Legacy token in main.py
 
 The code is multi-platform and is tested on both Windows and Unix/Linux machines.
