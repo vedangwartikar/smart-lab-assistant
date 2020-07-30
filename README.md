@@ -32,7 +32,7 @@ $ cd slack-automation
 OR (incase of any dependency issues) you can just pull the docker image without explicitly doing all of the above installation steps
 
 ```bash
-docker pull rutuja912/modified_server
+$ docker pull rutuja912/modified_server
 ```
 
 Once the installation is complete
