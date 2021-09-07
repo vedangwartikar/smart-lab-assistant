@@ -1,4 +1,4 @@
-<h1 align="center">Automation of Network Systems using NLP and Slack API</h1>
+<h1 align="center">Automation of Bulk PCs using NLP and Slack API</h1>
 
 <div align="center">
     <img src="https://github.com/vedangwartikar/slack-automation/blob/master/slack-automation.gif" alt = "this slowpoke moves"/>
